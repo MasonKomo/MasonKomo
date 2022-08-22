@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasonKomo
 - 👀 I’m interested in VR and AR software/game development!
-- 🌱 I’m currently learning everything! Never stop learning! (But specifically Focusing on building a Flutter app for Fathom Reads (fathomreads.com))
+- 🌱 I work as a backend software engineer @BoomTownROI.
 - 📫 How to reach me: mason.c.bradford@gmail.com
 
 <!---
