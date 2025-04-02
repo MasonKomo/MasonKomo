@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasonKomo
-- 👀 I’m interested in VR and AR software/game development!
-- 🌱 I work as a backend software engineer @BoomTownROI.
+- 👀 I'm interested in making software that is pleasing to the eye!
+- 🌱 I work as a fullstack software engineer.
 - 📫 How to reach me: mason.c.bradford@gmail.com
 
 <!---
